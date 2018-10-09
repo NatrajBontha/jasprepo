@@ -1,0 +1,14 @@
+/Users/apple/restgateway/OrdersAPI/bin/Debug/netcoreapp2.1/OrdersAPI.deps.json
+/Users/apple/restgateway/OrdersAPI/bin/Debug/netcoreapp2.1/OrdersAPI.runtimeconfig.json
+/Users/apple/restgateway/OrdersAPI/bin/Debug/netcoreapp2.1/OrdersAPI.runtimeconfig.dev.json
+/Users/apple/restgateway/OrdersAPI/bin/Debug/netcoreapp2.1/OrdersAPI.dll
+/Users/apple/restgateway/OrdersAPI/bin/Debug/netcoreapp2.1/OrdersAPI.pdb
+/Users/apple/restgateway/OrdersAPI/obj/Debug/netcoreapp2.1/OrdersAPI.csprojAssemblyReference.cache
+/Users/apple/restgateway/OrdersAPI/obj/Debug/netcoreapp2.1/OrdersAPI.csproj.CoreCompileInputs.cache
+/Users/apple/restgateway/OrdersAPI/obj/Debug/netcoreapp2.1/OrdersAPI.RazorAssemblyInfo.cache
+/Users/apple/restgateway/OrdersAPI/obj/Debug/netcoreapp2.1/OrdersAPI.RazorAssemblyInfo.cs
+/Users/apple/restgateway/OrdersAPI/obj/Debug/netcoreapp2.1/OrdersAPI.AssemblyInfoInputs.cache
+/Users/apple/restgateway/OrdersAPI/obj/Debug/netcoreapp2.1/OrdersAPI.AssemblyInfo.cs
+/Users/apple/restgateway/OrdersAPI/obj/Debug/netcoreapp2.1/OrdersAPI.RazorTargetAssemblyInfo.cache
+/Users/apple/restgateway/OrdersAPI/obj/Debug/netcoreapp2.1/OrdersAPI.dll
+/Users/apple/restgateway/OrdersAPI/obj/Debug/netcoreapp2.1/OrdersAPI.pdb

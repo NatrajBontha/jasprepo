@@ -1,0 +1,14 @@
+/Users/apple/restgateway/CatalogAPI/bin/Debug/netcoreapp2.1/CatalogAPI.deps.json
+/Users/apple/restgateway/CatalogAPI/bin/Debug/netcoreapp2.1/CatalogAPI.runtimeconfig.json
+/Users/apple/restgateway/CatalogAPI/bin/Debug/netcoreapp2.1/CatalogAPI.runtimeconfig.dev.json
+/Users/apple/restgateway/CatalogAPI/bin/Debug/netcoreapp2.1/CatalogAPI.dll
+/Users/apple/restgateway/CatalogAPI/bin/Debug/netcoreapp2.1/CatalogAPI.pdb
+/Users/apple/restgateway/CatalogAPI/obj/Debug/netcoreapp2.1/CatalogAPI.csprojAssemblyReference.cache
+/Users/apple/restgateway/CatalogAPI/obj/Debug/netcoreapp2.1/CatalogAPI.csproj.CoreCompileInputs.cache
+/Users/apple/restgateway/CatalogAPI/obj/Debug/netcoreapp2.1/CatalogAPI.RazorAssemblyInfo.cache
+/Users/apple/restgateway/CatalogAPI/obj/Debug/netcoreapp2.1/CatalogAPI.RazorAssemblyInfo.cs
+/Users/apple/restgateway/CatalogAPI/obj/Debug/netcoreapp2.1/CatalogAPI.AssemblyInfoInputs.cache
+/Users/apple/restgateway/CatalogAPI/obj/Debug/netcoreapp2.1/CatalogAPI.AssemblyInfo.cs
+/Users/apple/restgateway/CatalogAPI/obj/Debug/netcoreapp2.1/CatalogAPI.RazorTargetAssemblyInfo.cache
+/Users/apple/restgateway/CatalogAPI/obj/Debug/netcoreapp2.1/CatalogAPI.dll
+/Users/apple/restgateway/CatalogAPI/obj/Debug/netcoreapp2.1/CatalogAPI.pdb

@@ -1,0 +1,14 @@
+/Users/apple/restgateway/GatewayAPI/bin/Debug/netcoreapp2.1/GatewayAPI.deps.json
+/Users/apple/restgateway/GatewayAPI/bin/Debug/netcoreapp2.1/GatewayAPI.runtimeconfig.json
+/Users/apple/restgateway/GatewayAPI/bin/Debug/netcoreapp2.1/GatewayAPI.runtimeconfig.dev.json
+/Users/apple/restgateway/GatewayAPI/bin/Debug/netcoreapp2.1/GatewayAPI.dll
+/Users/apple/restgateway/GatewayAPI/bin/Debug/netcoreapp2.1/GatewayAPI.pdb
+/Users/apple/restgateway/GatewayAPI/obj/Debug/netcoreapp2.1/GatewayAPI.csprojAssemblyReference.cache
+/Users/apple/restgateway/GatewayAPI/obj/Debug/netcoreapp2.1/GatewayAPI.csproj.CoreCompileInputs.cache
+/Users/apple/restgateway/GatewayAPI/obj/Debug/netcoreapp2.1/GatewayAPI.RazorAssemblyInfo.cache
+/Users/apple/restgateway/GatewayAPI/obj/Debug/netcoreapp2.1/GatewayAPI.RazorAssemblyInfo.cs
+/Users/apple/restgateway/GatewayAPI/obj/Debug/netcoreapp2.1/GatewayAPI.AssemblyInfoInputs.cache
+/Users/apple/restgateway/GatewayAPI/obj/Debug/netcoreapp2.1/GatewayAPI.AssemblyInfo.cs
+/Users/apple/restgateway/GatewayAPI/obj/Debug/netcoreapp2.1/GatewayAPI.RazorTargetAssemblyInfo.cache
+/Users/apple/restgateway/GatewayAPI/obj/Debug/netcoreapp2.1/GatewayAPI.dll
+/Users/apple/restgateway/GatewayAPI/obj/Debug/netcoreapp2.1/GatewayAPI.pdb
